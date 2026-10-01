@@ -1,0 +1,18 @@
+{
+    "karvands": [
+        {
+            "full_name": "farzaneh ghorbani",
+            "email": "far.ghorbani@gmail.com",
+            "city": "tehran",
+            "education": {
+                "degree": "bachelor",
+                "field": "computer "
+            },
+            "skills": [
+                {
+                    "name": "python"
+                }
+            ]
+        }
+    ]
+}
